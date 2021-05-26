@@ -16,6 +16,7 @@ function App() {
 
   return (
     <div className="App">
+      <div className="HeaderTitle">Stackoverflow Threads</div>
       <QuestionList />
     </div>
   );
