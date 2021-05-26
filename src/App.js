@@ -5,10 +5,12 @@ import { useEffect } from "react";
 import QuestionList from "./components/questionsList";
 function App() {
   const dispatch = useDispatch();
-  const pageSize = useSelector((state) => state.QuestionsArrayReducer.pageSize);
+  const pageNumber = useSelector(
+    (state) => state.QuestionsArrayReducer.pageNumber
+  );
 
   useEffect(() => {
-    callQuestionsArrayApi(dispatch, pageSize);
+    callQuestionsArrayApi(dispatch, pageNumber);
     // eslint-disable-next-line
   }, []);
 

@@ -32,7 +32,7 @@ const useStyles = makeStyles({
 export default function QuestionList() {
   const classes = useStyles();
   const dispatch = useDispatch();
-  const { questionsArray, pageSize } = useSelector(
+  const { questionsArray, pageNumber } = useSelector(
     (state) => state.QuestionsArrayReducer
   );
   const [open, setOpen] = React.useState(false);
@@ -53,15 +53,9 @@ export default function QuestionList() {
 
       <InfiniteScroll
         dataLength={questionsArray.length}
-        next={() => callQuestionsArrayApi(dispatch, pageSize)}
+        next={() => callQuestionsArrayApi(dispatch, pageNumber)}
         hasMore={true}
-        loader={
-          questionsArray.length < 100 ? (
-            <h4>Loading...</h4>
-          ) : (
-            <h4>No more data to load .</h4>
-          )
-        }
+        loader={<h4>Loading...</h4>}
       >
         <TableContainer component={Paper}>
           <Table className={classes.table} aria-label="simple table">

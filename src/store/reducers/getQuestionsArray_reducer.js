@@ -1,15 +1,14 @@
 const initialState = {
   questionsArray: [],
-  pageSize: 20,
+  pageNumber: 1,
 };
 
 export const QuestionsArrayReducer = (state = initialState, action) => {
   switch (action.type) {
     case "GET_QUESTIONS_ARRAY":
       return {
-        ...state,
-        questionsArray: action.payload,
-        pageSize: state.pageSize + 10,
+        questionsArray: [...state.questionsArray, ...action.payload],
+        pageNumber: state.pageNumber + 1,
       };
     default:
       return state;
