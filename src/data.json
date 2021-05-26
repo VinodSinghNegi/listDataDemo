@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "tags": ["reactjs", "forms"],
+      "owner": {
+        "reputation": 375,
+        "user_id": 8926157,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/8iAxL.png?s=128&g=1",
+        "display_name": "krishna kakade",
+        "link": "https://stackoverflow.com/users/8926157/krishna-kakade"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016204,
+      "creation_date": 1622016204,
+      "question_id": 67700867,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700867/reactjs-how-can-i-take-input-from-one-componentinputbox-and-use-it-in-other",
+      "title": "Reactjs - how can i take input from one component(inputbox) and use it in other component"
+    },
+    {
+      "tags": ["mysql", "mariadb", "galera"],
+      "owner": {
+        "reputation": 71,
+        "user_id": 12560929,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-hZvld405hCw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reyVHHRBfT87Uj-Hyxaks_IKzdt9g/photo.jpg?sz=128",
+        "display_name": "Patrice G",
+        "link": "https://stackoverflow.com/users/12560929/patrice-g"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016200,
+      "creation_date": 1622016200,
+      "question_id": 67700866,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700866/mariadb-galera-error-mysqld-got-signal-11",
+      "title": "Mariadb Galera [ERROR] mysqld got signal 11 ;"
+    },
+    {
+      "tags": ["php", "web", "session"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 10808508,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/r6zsL.png?s=128&g=1",
+        "display_name": "khelifi",
+        "link": "https://stackoverflow.com/users/10808508/khelifi"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1622016198,
+      "creation_date": 1622015107,
+      "last_edit_date": 1622016198,
+      "question_id": 67700608,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700608/how-to-unset-and-destroy-only-one-session",
+      "title": "how to unset and destroy only one session"
+    },
+    {
+      "tags": ["javascript", "html", "windows"],
+      "owner": {
+        "reputation": 107,
+        "user_id": 7008296,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/BXEcx.png?s=128&g=1",
+        "display_name": "MrAmericanMike",
+        "link": "https://stackoverflow.com/users/7008296/mramericanmike"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1622016196,
+      "creation_date": 1610917822,
+      "question_id": 65765985,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/65765985/disable-windows-popup-when-changing-volume-from-javascript-on-webpage",
+      "title": "Disable Windows Popup when changing volume (From Javascript on webpage)"
+    },
+    {
+      "tags": ["c#", "image", "frame", "libraries", "object-recognition"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 16026450,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f6ee356d5adee4900ae92245929e4c9b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ThisIsNicola",
+        "link": "https://stackoverflow.com/users/16026450/thisisnicola"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016194,
+      "creation_date": 1622016194,
+      "question_id": 67700865,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700865/c-searching-a-library-that-manage-images",
+      "title": "C# : Searching a library that manage images"
+    },
+    {
+      "tags": [
+        "android",
+        "android-gradle-plugin",
+        "build.gradle",
+        "android-library",
+        "android-flavors"
+      ],
+      "owner": {
+        "reputation": 766,
+        "user_id": 713042,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/1c663280e6abeb8072244a09b4e94a57?s=128&d=identicon&r=PG",
+        "display_name": "Mahantesh M Ambi",
+        "link": "https://stackoverflow.com/users/713042/mahantesh-m-ambi"
+      },
+      "is_answered": false,
+      "view_count": 1211,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1622016193,
+      "creation_date": 1574223560,
+      "question_id": 58946623,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/58946623/android-add-library-module-in-particular-flavor-only",
+      "title": "Android: Add library module in particular flavor only"
+    },
+    {
+      "tags": ["vim"],
+      "owner": {
+        "reputation": 12997,
+        "user_id": 363603,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/a17548ea579a54c180a7d37a7818501a?s=128&d=identicon&r=PG",
+        "display_name": "u123",
+        "link": "https://stackoverflow.com/users/363603/u123"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1622016193,
+      "creation_date": 1621999052,
+      "last_edit_date": 1622008996,
+      "question_id": 67698086,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67698086/vi-vim-behaves-quite-different-on-remote-server-compared-to-on-my-local-ubuntu",
+      "title": "Vi/Vim behaves quite different on remote server compared to on my local (ubuntu) PC"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "components",
+        "react-props",
+        "conditional-operator"
+      ],
+      "owner": {
+        "reputation": 29,
+        "user_id": 14589779,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhgephnpUllfEUI40QUUkmhi7MKG6VMrInNC6mLsw=k-s128",
+        "display_name": "D A R K  VerbalCentaurPL",
+        "link": "https://stackoverflow.com/users/14589779/d-a-r-k-verbalcentaurpl"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1622016193,
+      "creation_date": 1622015495,
+      "question_id": 67700702,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700702/i-have-a-problem-using-the-ternary-operator-in-react-js",
+      "title": "I have a problem using the Ternary Operator in React.js"
+    },
+    {
+      "tags": ["javascript"],
+      "owner": {
+        "reputation": 5072,
+        "user_id": 2847689,
+        "user_type": "registered",
+        "accept_rate": 83,
+        "profile_image": "https://www.gravatar.com/avatar/3e38b913ff0c83b7824342f2a1d3354d?s=128&d=identicon&r=PG",
+        "display_name": "Carol.Kar",
+        "link": "https://stackoverflow.com/users/2847689/carol-kar"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016192,
+      "creation_date": 1622016192,
+      "question_id": 67700862,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700862/load-class-from-external-url",
+      "title": "Load class from external url"
+    },
+    {
+      "tags": ["java", "spring", "testing", "two-factor-authentication"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 16035070,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7819b1391eb645f465717bac9dd23410?s=128&d=identicon&r=PG&f=1",
+        "display_name": "JupitersClouds",
+        "link": "https://stackoverflow.com/users/16035070/jupitersclouds"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016191,
+      "creation_date": 1622016191,
+      "question_id": 67700861,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700861/how-to-get-the-code-for-a-given-secret-for-two-factor-authentication-as-strings",
+      "title": "How to get the code for a given Secret for two factor authentication as Strings"
+    },
+    {
+      "tags": [
+        "python",
+        "mysql",
+        "tkinter",
+        "mysql-python",
+        "mysql-error-1064"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 16034791,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhPhgmYDneEAvap_jMRXBPXYrSzNx-z3hliER7n2Q=k-s128",
+        "display_name": "Shivam Satpute",
+        "link": "https://stackoverflow.com/users/16034791/shivam-satpute"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1622016190,
+      "creation_date": 1622014655,
+      "last_edit_date": 1622014947,
+      "question_id": 67700501,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700501/error-1064-showing-syntax-error-not-able-to-find-whatss-causing-this-error",
+      "title": "error 1064: showing syntax error not able to find whatss causing this error"
+    },
+    {
+      "tags": ["flutter", "gridview", "flutter-video-player"],
+      "owner": {
+        "reputation": 195,
+        "user_id": 9316527,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5e0f83536ef8ac9b4af7415c20ad14fe?s=128&d=identicon&r=PG&f=1",
+        "display_name": "urvashi",
+        "link": "https://stackoverflow.com/users/9316527/urvashi"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016184,
+      "creation_date": 1622016184,
+      "question_id": 67700859,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700859/how-to-update-data-in-video-view-that-is-in-gridview-builder-flutter",
+      "title": "How to update data in video view that is in GridView builder flutter?"
+    },
+    {
+      "tags": ["git"],
+      "owner": {
+        "reputation": 85722,
+        "user_id": 2545680,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/DCo33.jpg?s=128&g=1",
+        "display_name": "Max Koretskyi",
+        "link": "https://stackoverflow.com/users/2545680/max-koretskyi"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1622016184,
+      "creation_date": 1622015872,
+      "question_id": 67700789,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700789/how-to-soft-reset-to-the-previous-commit-without-updating-branch",
+      "title": "How to soft reset to the previous commit without updating branch"
+    },
+    {
+      "tags": ["java", "timeout", "junit5"],
+      "owner": {
+        "reputation": 10254,
+        "user_id": 138513,
+        "user_type": "registered",
+        "accept_rate": 46,
+        "profile_image": "https://www.gravatar.com/avatar/42b570f6f4312a872c2fc671e3ddc82b?s=128&d=identicon&r=PG",
+        "display_name": "Trejkaz",
+        "link": "https://stackoverflow.com/users/138513/trejkaz"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1622016182,
+      "creation_date": 1622003113,
+      "question_id": 67698512,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67698512/is-there-a-way-to-get-a-callback-from-junit5-if-a-test-is-timed-out",
+      "title": "Is there a way to get a callback from JUnit5 if a test is timed out?"
+    },
+    {
+      "tags": ["java", "android", "service", "android-mvvm"],
+      "owner": {
+        "reputation": 769,
+        "user_id": 5225862,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://www.gravatar.com/avatar/a53f8c630f930e3cf0e15f6c420ca266?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Coder88",
+        "link": "https://stackoverflow.com/users/5225862/coder88"
+      },
+      "is_answered": true,
+      "view_count": 21,
+      "accepted_answer_id": 67700856,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1622016179,
+      "creation_date": 1621601439,
+      "question_id": 67637215,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67637215/android-application-with-mvvm-architecture-writing-to-local-room-database-from",
+      "title": "Android application with MVVM architecture, writing to local Room database from a Service using MVVM, how should the Service write to the database?"
+    },
+    {
+      "tags": ["ms-access"],
+      "owner": {
+        "reputation": 1,
+        "user_id": 16035040,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/eca726cd45417190e56eaa5d94a19281?s=128&d=identicon&r=PG&f=1",
+        "display_name": "mimomimo",
+        "link": "https://stackoverflow.com/users/16035040/mimomimo"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1622016177,
+      "creation_date": 1622015706,
+      "last_edit_date": 1622016177,
+      "question_id": 67700759,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700759/getting-value-based-on-another-value",
+      "title": "Getting value based on another value"
+    },
+    {
+      "tags": ["c#", "winforms"],
+      "owner": {
+        "reputation": 47,
+        "user_id": 8451979,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7ca7e65508b1e2cb5149db909cbedd2a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "nickolas",
+        "link": "https://stackoverflow.com/users/8451979/nickolas"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1622016175,
+      "creation_date": 1622016175,
+      "question_id": 67700855,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700855/c-progress-bar-for-load-function",
+      "title": "c# Progress bar for load function"
+    },
+    {
+      "tags": ["python", "performance", "range"],
+      "owner": {
+        "reputation": 147,
+        "user_id": 12493545,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/643ee6e983b97dec66fbc33b5f9aa024?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Natan",
+        "link": "https://stackoverflow.com/users/12493545/natan"
+      },
+      "is_answered": false,
+      "view_count": 29,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1622016166,
+      "creation_date": 1621963248,
+      "question_id": 67692770,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67692770/adding-ranges-to-count-overlap-python",
+      "title": "Adding ranges to count overlap python"
+    },
+    {
+      "tags": ["javascript", "reactjs", "express", "graphql"],
+      "owner": {
+        "reputation": 1913,
+        "user_id": 6421288,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/e47f36b310b3e426e9ec3434bb09b29e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Maramal",
+        "link": "https://stackoverflow.com/users/6421288/maramal"
+      },
+      "is_answered": true,
+      "view_count": 536,
+      "accepted_answer_id": 59517121,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1622016164,
+      "creation_date": 1577594175,
+      "question_id": 59516884,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/59516884/react-js-proper-way-to-set-a-loader-ui",
+      "title": "React JS proper way to set a loader UI"
+    },
+    {
+      "tags": ["android", "kotlin", "android-jetpack-compose"],
+      "owner": {
+        "reputation": 30623,
+        "user_id": 3286489,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://i.stack.imgur.com/yTcB3.png?s=128&g=1",
+        "display_name": "Elye",
+        "link": "https://stackoverflow.com/users/3286489/elye"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1622016164,
+      "creation_date": 1622014445,
+      "question_id": 67700446,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67700446/unresolved-reference-vectorresource-and-imageresources-in-jetpact-compose-1-0-0",
+      "title": "Unresolved reference: vectorResource and imageResources in Jetpact Compose 1.0.0-beta07"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 297
+}
