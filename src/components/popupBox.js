@@ -5,7 +5,7 @@ import DialogActions from "@material-ui/core/DialogActions";
 import DialogContent from "@material-ui/core/DialogContent";
 import DialogContentText from "@material-ui/core/DialogContentText";
 import DialogTitle from "@material-ui/core/DialogTitle";
-
+import HighlightOffIcon from "@material-ui/icons/HighlightOff";
 export default function PopupBox({ currentQuestion, setOpen, open }) {
   return (
     <div>
@@ -16,40 +16,54 @@ export default function PopupBox({ currentQuestion, setOpen, open }) {
           aria-labelledby="dialog-title"
           aria-describedby="dialog-description"
         >
-          <DialogTitle id="dialog-title">{currentQuestion.title}</DialogTitle>
-          <DialogContent>
-            <DialogContentText
-              id="dialog-description"
-              style={{ display: "flex" }}
-            >
-              <div style={{ display: "flex", width: "60%" }}>
-                <div id="pic">
-                  <img
-                    src={currentQuestion.owner.profile_image}
-                    alt={currentQuestion.owner.display_name + "profile"}
-                    height="40px"
-                    style={{ borderRadius: "50px" }}
-                  />
-                </div>
-                <div style={{ marginLeft: "5%" }}>
-                  <div id="ownerName">{currentQuestion.owner.display_name}</div>
-                  <div id="creationDate">
-                    {new Date(currentQuestion.creation_date).toLocaleString()}
-                  </div>
-                </div>
-              </div>
-              <DialogActions style={{ width: "40%" }}>
-                <a
-                  href={currentQuestion.link}
-                  style={{ textDecoration: "none" }}
+          <div style={{ display: "flex" }}>
+            <div>
+              <DialogTitle id="dialog-title">
+                {currentQuestion.title}
+              </DialogTitle>
+              <DialogContent>
+                <DialogContentText
+                  id="dialog-description"
+                  style={{ display: "flex" }}
                 >
-                  <Button color="primary" autoFocus>
-                    Open Thread
-                  </Button>
-                </a>
-              </DialogActions>
-            </DialogContentText>
-          </DialogContent>
+                  <div style={{ display: "flex", width: "60%" }}>
+                    <div id="pic">
+                      <img
+                        src={currentQuestion.owner.profile_image}
+                        alt={currentQuestion.owner.display_name + "profile"}
+                        height="40px"
+                        style={{ borderRadius: "50px" }}
+                      />
+                    </div>
+                    <div style={{ marginLeft: "5%" }}>
+                      <div id="ownerName">
+                        {currentQuestion.owner.display_name}
+                      </div>
+                      <div id="creationDate">
+                        {new Date(
+                          currentQuestion.creation_date
+                        ).toLocaleString()}
+                      </div>
+                    </div>
+                  </div>
+                  <DialogActions style={{ width: "40%" }}>
+                    <a
+                      href={currentQuestion.link}
+                      style={{ textDecoration: "none" }}
+                    >
+                      <Button color="primary" autoFocus>
+                        Open Thread
+                      </Button>
+                    </a>
+                  </DialogActions>
+                </DialogContentText>
+              </DialogContent>
+            </div>
+            <HighlightOffIcon
+              style={{ color: "red", cursor: "pointer" }}
+              onClick={() => setOpen(false)}
+            />
+          </div>
         </Dialog>
       )}
     </div>
